@@ -11,6 +11,6 @@
 - Extracts the first 5 numbers.
 - Reverses and prints both the original sliced list and the reversed one.
 
-## 📁 Files Included
+## Files Included
 'task5.1.py'
 'task5.2.py'
