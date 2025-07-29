@@ -13,6 +13,8 @@ student_name = input("Enter the Student's Name: ")
 
 if student_name in students_marks:
     print(f"{student_name}'s Marks: {students_marks[student_name]}")
+    print("Congrats for the results")
 
 else:
     print("Student not found.")
+    print("Try using appropriate Student Name")
